@@ -1,6 +1,4 @@
-# nodejs-monodb-api-parents-child-relation
-nodejs-monodb-api-parents-child-relation
-
+# one-to-many-relation-nested-parentschild-nodejs-mongodb
 1.Book & Auther
 ----------------
 created one to many association to work according to route like first post parent, then post child to use parent id add on publisher key, then work on get method
