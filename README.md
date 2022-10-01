@@ -2,6 +2,7 @@
 1.Book & Auther
 ----------------
 created one to many association to work according to route like first post parent, then post child to use parent id add on publisher key, then work on get method
+
 2.Category (Parent & child)
 ----------------------------
 created nested category in same model for Parent/s child/same
