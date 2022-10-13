@@ -14,7 +14,7 @@ Monogobd: 6.0.2
 
 Install & Run
 ----------------
-npm i or npm insttall for installation
+npm i or npm install for installation
 node app.js to run the app
 
 api
